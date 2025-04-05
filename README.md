@@ -34,9 +34,12 @@ Javascript Http istekleri için kullanılan kütüphane :
 
 Terminalde sırası ile aşağıdaki komutları girerek projeyi ayağa kaldırabilirsiniz.
 
+git clone https://github.com/kullaniciadi/vite-react-project.git
 `    cd vite-react-project
-     npm install
-     npm run dev
+`
+`    npm install
+`
+`    npm run dev
 `
 
 # Eğer tarayıcıda otomatik açılmazsa:
